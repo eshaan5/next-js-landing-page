@@ -1,0 +1,21 @@
+.download__container_bg {
+    background-color: white;
+    text-align: center;
+}
+
+.download__container {
+    min-height: 40vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.download__image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.download__image img {
+    width: 150px;
+}

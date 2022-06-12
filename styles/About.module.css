@@ -1,0 +1,10 @@
+.about__container_bg {
+    background-color: white;
+}
+
+.about__details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

@@ -1,0 +1,12 @@
+.service__container_bg {
+    background-color: white;
+    padding-top: 100px;
+}
+
+.service__container {
+    min-height: 50vh;
+}
+
+.service__img {
+    width: 200px;
+}

@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.btn-custom {
+  background-color: tomato;
+  color: white;
+}
+
+.fa {
+  margin-left: 5px;
+  font-size: 20px;
+}
